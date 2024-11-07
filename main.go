@@ -1,5 +1,7 @@
 package main
 
+//проверка
+
 import (
 	"fmt"
 )
