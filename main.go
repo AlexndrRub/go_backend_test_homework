@@ -1,6 +1,7 @@
 package main
 
 //проверка
+//проверка два
 
 import (
 	"fmt"
